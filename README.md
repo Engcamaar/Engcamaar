@@ -1,92 +1,128 @@
-# 👋 Hi, I'm Cumar Siyaad Cismaan Ibraahim
+ <div align="center">
 
-<h3 align="center">Software Engineer | Founder & CEO | Technology Enthusiast</h3>
+# 👨‍💻 Camaar Siyaad Cismaan Ibraahim
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&duration=3000&pause=1000&color=09ADEB&center=true&vCenter=true&width=650&lines=Software+Engineer;Founder+%26+CEO+of+SmartCode+Technologies;Building+Innovative+Software+Solutions;Passionate+About+AI+%26+Technology" alt="Typing SVG" />
-</p>
+### SOFTWARE ENGINEER | FOUNDER & CEO
 
-<p align="center">
-  <a href="https://github.com/Engcamaar">
-    <img src="https://img.shields.io/badge/GitHub-Engcamaar-323490?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <img src="https://img.shields.io/badge/Role-Software%20Engineer-09ADEB?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-AI%20%26%20Software-323490?style=for-the-badge" />
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=09ADEB&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+Profile!;Software+Engineer;Founder+%26+CEO+of+SmartCode+Technologies;Building+Innovative+Digital+Solutions" />
+
+[![GitHub](https://img.shields.io/badge/GitHub-Engcamaar-323490?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Engcamaar)
+
+</div>
 
 ---
 
-## 🚀 About Me
+## 👋 About Me
 
-I'm a Software Engineer passionate about developing innovative technology solutions that solve real-world problems.
+I'm a passionate **Software Engineer** and technology entrepreneur dedicated to creating innovative digital solutions that solve real-world problems.
 
 - 🎓 Bachelor of Software Engineering – Amoud University.
-- 💼 Founder & CEO of **SmartCode Technologies**.
-- 💻 Building web applications, mobile applications, and business management systems.
+- 🚀 Founder & CEO of **SmartCode Technologies**.
+- 💻 Full-Stack Software Development.
 - 🤖 Interested in Artificial Intelligence and Automation.
-- 🌍 Focused on building technology solutions with global impact.
-- 📚 Always learning, creating, and improving.
+- 🌍 Building technology solutions for businesses and communities.
+- 🔭 Always exploring new technologies and opportunities.
+
+---
 
 ## 🏢 SmartCode Technologies
 
-<p align="center">
-  <strong>Founded in Borama, Serving the World Through Technology.</strong>
-</p>
+<div align="center">
 
-I'm leading SmartCode Technologies, a technology company focused on software development, digital transformation, and innovative business solutions.
+### SMARTCODE TECHNOLOGIES
 
-## 🛠️ Tech Stack & Tools
+**Founded in Borama, Serving the World Through Technology.**
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,php,mysql,mongodb,python,git,github,vscode,tailwind,typescript&perline=7" />
-</p>
+</div>
 
-## 💡 Featured Projects
+Leading a technology company focused on:
 
-### 1. Dakhli Kayd
-A personal and business finance management application designed to help users manage income, expenses, transactions, and financial reports.
-
-### 2. SmartCode Technologies
-A software development and technology solutions platform focused on helping businesses grow through technology.
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Engcamaar&show_icons=true&theme=transparent&title_color=09ADEB&icon_color=323490&text_color=808080&border_color=09ADEB&hide_border=false" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Engcamaar&layout=compact&theme=transparent&title_color=09ADEB&text_color=808080&border_color=09ADEB" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Engcamaar&theme=transparent&ring=09ADEB&fire=323490&currStreakLabel=09ADEB&sideLabels=808080&dates=808080" />
-</p>
-
-## 🐍 Contribution Activity
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Engcamaar/Engcamaar/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-</p>
-
-## 🎯 Current Interests
-
-- Artificial Intelligence & Machine Learning
-- Full-Stack Development
-- Mobile Application Development
-- Business Automation
-- Software Architecture
-- Entrepreneurship & Technology Innovation
-
-## 📫 Let's Connect
-
-<p align="center">
-  <a href="https://github.com/Engcamaar">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" />
-  </a>
-</p>
+- Custom Software Development
+- Web & Mobile Applications
+- Business Management Systems
+- AI & Business Automation
+- Digital Transformation
 
 ---
 
-<p align="center">
-  <b>Building the Future Through Technology 🚀</b>
-  <br/>
-  <i>Code • Innovate • Build • Inspire</i>
-</p>
+## 🛠️ Technologies & Tools
+
+<div align="center">
+
+### Frontend Development
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,typescript" />
+
+### Backend Development
+
+<img src="https://skillicons.dev/icons?i=nodejs,php,python,mysql,mongodb,express" />
+
+### Tools & Platforms
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" />
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+### 💰 Dakhli Kayd
+
+A personal and business finance management application.
+
+- Income & Expense Tracking
+- Financial Reports
+- Business Management
+- Transaction History
+
+### 💻 SmartCode Technologies
+
+A technology company delivering modern digital solutions.
+
+- Software Development
+- Web Applications
+- Business Systems
+- Digital Innovation
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Engcamaar&show_icons=true&theme=transparent&title_color=09ADEB&icon_color=323490&border_color=09ADEB" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Engcamaar&layout=compact&theme=transparent&title_color=09ADEB&border_color=09ADEB" />
+
+<br/>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=Engcamaar&theme=transparent&ring=09ADEB&fire=323490&currStreakLabel=09ADEB" />
+
+</div>
+
+---
+
+## 🎯 My Goals
+
+- Build impactful software products.
+- Advance in Artificial Intelligence.
+- Develop scalable technology solutions.
+- Grow SmartCode Technologies internationally.
+- Contribute to the global developer community.
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-Engcamaar-181717?style=for-the-badge&logo=github)](https://github.com/Engcamaar)
+
+**Open to collaboration, innovation and new opportunities.**
+
+### 💡 CODE • INNOVATE • BUILD • INSPIRE
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=09ADEB&height=100&section=footer" />
+
+</div>
